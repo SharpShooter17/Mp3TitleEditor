@@ -1,0 +1,52 @@
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.exe.config
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.exe
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.pdb
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Form1.resources
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Properties.Resources.resources
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.csproj.GenerateResource.Cache
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.exe
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.pdb
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\bin\Release\taglib-sharp.dll
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Bartek\Desktop\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Mp3Info.resources
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.exe.config
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.exe
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.pdb
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.exe
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.pdb
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\bin\Release\policy.2.0.taglib-sharp.dll
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\bin\Release\taglib-sharp.dll
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\bin\Release\policy.2.0.taglib-sharp.config
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.csprojResolveAssemblyReference.cache
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Form1.resources
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Mp3Info.resources
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Properties.Resources.resources
+D:\C# Projects\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.exe.config
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.exe
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.pdb
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.exe
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.pdb
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\taglib-sharp.dll
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Form1.resources
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Mp3Info.resources
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Properties.Resources.resources
+C:\Users\user\Desktop\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.exe.config
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.exe
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.pdb
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.exe
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\Mp3TitleEditor.pdb
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\taglib-sharp.dll
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Form1.resources
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Mp3Info.resources
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.Properties.Resources.resources
+C:\Users\user\Desktop\Programowanie\C#\Mp3TitleEditor\Mp3TitleEditor\obj\Release\Mp3TitleEditor.csproj.GenerateResource.Cache
